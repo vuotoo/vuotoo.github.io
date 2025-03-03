@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2025/02/27/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://www.vuotoo.cn/">Vuoto</a>! </p>
-]]></content>
-  </entry>
-  <entry>
     <title></title>
     <url>/2025/02/27/1/</url>
     <content><![CDATA[<hr>
 <p>title: 1<br><img src="https://vuotoo.cn/PicGo/07e7701f4127b02cb354c91f3a2934b.jpg"><br>date: 2025-02-27 11:45:57</p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2025/02/27/hello-world/</url>
+    <content><![CDATA[<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><p>你好！欢迎来到我的世界。这里是一个热爱技术、喜欢分享的普通人打造的小天地。希望通过文字和代码，与你一起探索更多可能性。</p>
+<h2 id="我的兴趣"><a href="#我的兴趣" class="headerlink" title="我的兴趣"></a>我的兴趣</h2><p>我对编程、开源项目和技术写作充满热情。无论是开发一个小工具，还是解决复杂的技术问题，都能让我感到无比满足。平时喜欢研究各种编程语言和框架，尤其对前端开发和数据可视化有浓厚兴趣。</p>
+<h2 id="我的经历"><a href="#我的经历" class="headerlink" title="我的经历"></a>我的经历</h2><p>虽然我不是计算机科班出身，但通过自学和实践，逐渐掌握了多种技术栈。从最初的HTML&#x2F;CSS到如今的全栈开发，每一步都充满了挑战和乐趣。我也积极参与开源社区，贡献代码的同时结识了许多志同道合的朋友。</p>
+<h2 id="我的目标"><a href="#我的目标" class="headerlink" title="我的目标"></a>我的目标</h2><p>我希望通过博客记录自己的学习历程，分享经验与心得，帮助更多像我一样的初学者少走弯路。同时，也期待与更多技术大牛交流，不断提升自己。</p>
+<h2 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h2><p>如果你有任何问题或想法，欢迎随时通过以下方式联系我：</p>
+<ul>
+<li><strong>邮箱</strong>: <a href="mailto:&#118;&#117;&#111;&#116;&#111;&#x6f;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;">&#118;&#117;&#111;&#116;&#111;&#x6f;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;</a>  </li>
+<li><strong>GitHub</strong>: <a href="https://github.com/vuotoo">https://github.com/vuotoo</a></li>
+</ul>
+<p>感谢你的访问！希望你能在这里找到一些有价值的内容，也期待未来能与你有更多的互动~ 😊</p>
 ]]></content>
   </entry>
 </search>
